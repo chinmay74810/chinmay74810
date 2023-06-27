@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinmay74810
-- 👀 I’m interested in Cyber security 
+- 👀 I’m a front-end developer
 - 🌱 I’m currently learning Python ,Web dev, linux
 - 💞️ I’m looking to collaborate on small web projects 
 - 📫 How to reach me My LinkedIn I'd https://www.linkedin.com/in/chinmay-340452200
